@@ -17,16 +17,12 @@ type Experience = {
 export default function ExperienceSection() {
   const experiences: Experience[] = [
     {
-      title: "Walk with Elephants in Jaipur",
+      title: "Natural Feeding Experience",
       description:
-        "Experience the magic of walking alongside our gentle giants in a serene, cruelty-free setting.",
-      imageSrc: "/images/forest.jpg", // Add a placeholder if missing
-      tags: ["60 min", "Guided Nature Walk", "Family-friendly"],
-      badge: {
-        text: "Most Popular",
-        color: "bg-rajasthani-green",
-      },
-      imagePosition: "left",
+        "Join in daily care rituals like feeding and bathing, creating memorable bonds with elephants in Jaipur.",
+      imageSrc: `https://media.istockphoto.com/id/1176307613/photo/old-sad-elephant-ride.jpg?s=2048x2048&w=is&k=20&c=7DRpNAoW7XfFw-xc-E_H0epn3YNzPGnZLQirSfhsq7I=`,
+      tags: ["45 min", "Hands-on", "All ages"],
+      imagePosition: "right",
     },
     {
       title: "Natural Feeding Experience",
