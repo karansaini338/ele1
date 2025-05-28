@@ -28,8 +28,7 @@ export default function HeroSection() {
               <span className="block">ELEPHANT HAVEN</span>
             </h1>
             <p className="text-lg md:text-xl mb-8 max-w-lg text-white">
-              Welcome to Ele Experience, Jaipur’s premier destination for ethical elephant interactions. Located in the heart of Rajasthan’s Pink City, we invite you to embark on an unforgettable journey where you connect with majestic elephants in a responsible, respectful, and heartfelt environment.
-            </p>
+             Welcome to Ele Experience — Jaipur’s top destination for ethical elephant encounters. Connect with majestic elephants in a respectful and unforgettable way, right in the heart of the Pink City. </p>
             <Link href="/contact">
               <Button
                 size="lg"
